@@ -1,0 +1,147 @@
+
+   [
+    {
+      "id": 1,
+      "assignedTo": "Akash",
+      "status": "Completed",
+      "dueDate": "2024-12-10",
+      "priority": "High",
+      "description": "This task is good"
+    },
+    {
+      "id": 2,
+      "assignedTo": "Krishna",
+      "status": "In Progress",
+      "dueDate": "2024-11-07",
+      "priority": "Low",
+      "description": "This task is good"
+    },
+    {
+      "id": 3,
+      "assignedTo": "Sita",
+      "status": "Not Started",
+      "dueDate": "2024-10-25",
+      "priority": "Medium",
+      "description": "Task needs to be reviewed"
+    },
+    {
+      "id": 4,
+      "assignedTo": "Ravi",
+      "status": "In Progress",
+      "dueDate": "2024-12-01",
+      "priority": "High",
+      "description": "This task is important"
+    },
+    {
+      "id": 5,
+      "assignedTo": "Vishnu",
+      "status": "Completed",
+      "dueDate": "2024-09-30",
+      "priority": "Low",
+      "description": "This task is completed"
+    },
+    {
+      "id": 6,
+      "assignedTo": "Lakshmi",
+      "status": "Not Started",
+      "dueDate": "2024-12-15",
+      "priority": "High",
+      "description": "This task is pending"
+    },
+    {
+      "id": 7,
+      "assignedTo": "Arjun",
+      "status": "In Progress",
+      "dueDate": "2024-11-20",
+      "priority": "Medium",
+      "description": "Working on task"
+    },
+    {
+      "id": 8,
+      "assignedTo": "Radha",
+      "status": "Completed",
+      "dueDate": "2024-10-12",
+      "priority": "Low",
+      "description": "This task is finished"
+    },
+    {
+      "id": 9,
+      "assignedTo": "Manish",
+      "status": "In Progress",
+      "dueDate": "2024-11-29",
+      "priority": "High",
+      "description": "Task is being worked on"
+    },
+    {
+      "id": 10,
+      "assignedTo": "Priya",
+      "status": "Not Started",
+      "dueDate": "2024-12-20",
+      "priority": "Medium",
+      "description": "Awaiting for start"
+    },
+    {
+      "id": 11,
+      "assignedTo": "John",
+      "status": "Completed",
+      "dueDate": "2024-09-15",
+      "priority": "Low",
+      "description": "All done"
+    },
+    {
+      "id": 12,
+      "assignedTo": "Jane",
+      "status": "In Progress",
+      "dueDate": "2024-10-05",
+      "priority": "High",
+      "description": "Currently working"
+    },
+    {
+      "id": 13,
+      "assignedTo": "David",
+      "status": "Not Started",
+      "dueDate": "2024-11-22",
+      "priority": "Low",
+      "description": "Pending task"
+    },
+    {
+      "id": 14,
+      "assignedTo": "Eva",
+      "status": "Completed",
+      "dueDate": "2024-12-08",
+      "priority": "Medium",
+      "description": "This task is good"
+    },
+    {
+      "id": 15,
+      "assignedTo": "Sam",
+      "status": "In Progress",
+      "dueDate": "2024-09-29",
+      "priority": "High",
+      "description": "Currently under progress"
+    },
+    {
+      "id": 16,
+      "assignedTo": "Sara",
+      "status": "Completed",
+      "dueDate": "2024-10-18",
+      "priority": "Medium",
+      "description": "This task is done"
+    },
+    {
+      "id": 17,
+      "assignedTo": "Nina",
+      "status": "Not Started",
+      "dueDate": "2024-11-25",
+      "priority": "Low",
+      "description": "Not started yet"
+    },
+    {
+      "id": 18,
+      "assignedTo": "Michael",
+      "status": "In Progress",
+      "dueDate": "2024-12-10",
+      "priority": "High",
+      "description": "Working on it"
+    }
+]
